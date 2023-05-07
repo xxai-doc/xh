@@ -7,3 +7,4 @@ Ikhowudi yokuphela kwewebhusayithi ngumthombo ovulekileyo, wamkelekile ukunceda 
 * [ikhowudi yesiphelo](https://github.com/xxai-art/web)
 * [Iipakethe zolwimi zesayithi ngokubanzi](https://github.com/xxai-art/web/tree/main/i18n)
 * [Iipakethi zolwimi kwiimodyuli zokungena](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Uxwebhu lweWebhusayithi ngeelwimi ezininzi](https://github.com/xxai-doc)
