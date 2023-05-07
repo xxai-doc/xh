@@ -2,9 +2,9 @@
 
 * [Uxwebhu lweWebhusayithi ngeelwimi ezininzi](https://github.com/xxai-doc)
 
-Ikhowudi yokuphela kwewebhusayithi ngumthombo ovulekileyo, wamkelekile ukunceda ukwenza ngcono inguqulelo
+Ikhowudi ye-frontend yewebhusayithi ngumthombo ovulekileyo, wamkelekile ukunceda ukuphucula inguqulelo
 
-* [ikhowudi yesiphelo](https://github.com/xxai-art/web)
+* [Ikhowudi yangaphambili](https://github.com/xxai-art/web)
 * [Iipakethe zolwimi zesayithi ngokubanzi](https://github.com/xxai-art/web/tree/main/i18n)
 * [Iipakethi zolwimi kwiimodyuli zokungena](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Uxwebhu lweWebhusayithi ngeelwimi ezininzi](https://github.com/xxai-doc)
